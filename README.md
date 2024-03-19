@@ -16,3 +16,5 @@ Welcome to the VCure project repository! This is a React-based website aimed at 
 - Utilizes React-Toastify for notifications, React Router DOM for page routing, and FontAwesomeIcon for icons.
 - Chatbot integrated with patient information retrival using patient ID
 
+
+
